@@ -47,8 +47,10 @@ padding: 7px 10px;
 width: auto;
 }
 .language-btn{
-    width: 10px;
-    margin-left: 10px;
+     color: #fff;
+    padding: 10px 20px;
+    border-radius: 3px;
+    width: auto;
 }
 .header-content{
     position: absolute;
